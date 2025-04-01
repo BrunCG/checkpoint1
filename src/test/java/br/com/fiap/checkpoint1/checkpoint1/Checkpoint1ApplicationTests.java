@@ -1,4 +1,4 @@
-package br.com.fiap.checkpoint1;
+package br.com.fiap.checkpoint1.checkpoint1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
